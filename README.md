@@ -1,0 +1,2 @@
+# WeatherHacks-API-Sample
+WeatherHacksAPIのメモ
